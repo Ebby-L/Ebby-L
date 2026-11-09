@@ -1,4 +1,4 @@
-# Hi, I'm Ebby Lari 👋
+# Hi, I'm Ebby Lari 💃
 
 **Biomedical Engineer · Full-Stack Developer · HealthTech Innovator**
 
