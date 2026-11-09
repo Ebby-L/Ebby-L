@@ -2,7 +2,7 @@
 
 **Biomedical Engineer · Full-Stack Developer · HealthTech Innovator**
 
-I build medical technologies and software systems that support healthcare workers and improve patient outcomes, from wearable sensors to data models. My work centres on frugal medical technology, with a special interest in maternal health in low-resource settings. 
+I build medical technologies and software systems that support healthcare workers and improve patient outcomes, from wearable sensors to data models. My work focuses on frugal medical technology, with a special interest in maternal health in low-resource settings. 
 
 From time to time  I step outside my scope to explore projects in other sectors.
 
