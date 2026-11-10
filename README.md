@@ -21,12 +21,11 @@ From time to time  I step outside my scope to explore projects in other sectors.
 
 | Project | What it does | Stack |
 |---|---|---|
-| [🦴 X-Ray-Image Stitching](LINK) | Stitches overlapping radiograph segments into one full-length image, comparing classical feature matching against deep-learning matching| Python · OpenCV · PyTorch · Jupyter |
-| [🤰 MamaRisk](LINK) | Maternal health risk classifier with an API and a clinician-facing dashboard | Python · Scikit-learn · FastAPI · React |
-| [👁️ Anemia Vision](LINK) | Screens for anemia from conjunctiva photos, a low-cost check for a major PPH risk factor | PyTorch · OpenCV |
-| [💓 PulseSense](LINK) | Heart rate and signal-quality extraction from PPG wearable signals | Python · SciPy · PhysioNet |
-| [🏥 Maternity Access Map](LINK) | Maps maternity facility coverage across Kenyan counties against travel distance | Python · PostgreSQL · React · Leaflet |
-| [📋 DeviceSafe](LINK) | Searches and summarises FDA medical device adverse-event reports for design-risk review | openFDA API · FastAPI · LLM/RAG |
+| [🦴 X-Ray Image Stitching](https://github.com/Ebby-L/xraystitch) | Stitches overlapping radiograph exposures into one full-length image and measures classical (SIFT) against learned (DISK + LightGlue) matching on known ground truth | Python · OpenCV · PyTorch · Kornia |
+| [🤰 MamaRisk](https://github.com/Ebby-L/mamarisk) | Maternal health risk classifier from six routine vitals, with a leakage-checked evaluation, an API and a clinician-facing dashboard | Scikit-learn · FastAPI · React |
+| [📋 DeviceSafe](https://github.com/Ebby-L/devicesafe) | Turns FDA adverse-event reports into cited ISO 14971-style risk reviews, with automatic checking for invented citations | openFDA · RAG · Claude API · FastAPI |
+
+
 
 ---
 
